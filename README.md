@@ -1,7 +1,6 @@
 <h1 align="center">This is Hady Rashad</h1>
 <h3 align="center">an AI Engineer</h3>
 
-- Co-Founder, Chief Executive Officer and Chief Technology Officer at [AIMATRIX](https://aimatrixeg.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
